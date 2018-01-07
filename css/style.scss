@@ -1,0 +1,81 @@
+/*
+Author: Anmol Nandha - Five Quarter Designs
+Author URI: http://fivequarterdesigns.com/
+Description: Pure Gas Flow is are professional gas engineers servicing
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: puregasflow
+*/
+
+/* COLOURS */
+
+$blue: #089DCD;
+$orange: #E38027;
+
+/* GENERAL */
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	background-color: black;
+	background-image: url(../img/pure-gas-logo-icon@2x.png);
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	.container {
+		max-width:960px;
+	}
+}
+
+/* HEADER */
+
+header {
+	padding: 50px 0 0;
+}
+
+/* TITLE */
+
+.title {
+	h1 {
+		margin-top: 25px;
+		font-family: 'roboto', sans-serif;
+		font-weight: 100;
+		font-size: 42px;
+		color: white;
+	}
+	h2 {
+		margin-top: 15px;
+		font-family: 'roboto', sans-serif;
+		font-weight: 100;
+		font-size: 22px;
+		color: white;
+	}
+}
+
+/* DETAILS */
+
+.details {
+	margin-top: 50px;
+	.contact-detail {
+		font-size: 22px;
+		.contact-icon {
+			width: 45px;
+			color: $blue;
+		}
+		.contact-info {
+			font-family: 'roboto', sans-serif;
+			font-weight: 100;
+			color: white;
+			a {
+				color: white;
+				text-decoration:none;
+				&:hover {
+					font-weight:300;
+				}
+			}
+		}
+	}
+}

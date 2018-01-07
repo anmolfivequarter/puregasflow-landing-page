@@ -1,0 +1,73 @@
+/*
+Author: Anmol Nandha - Five Quarter Designs
+Author URI: http://fivequarterdesigns.com/
+Description: Pure Gas Flow is are professional gas engineers servicing
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: puregasflow
+*/
+/* COLOURS */
+/* GENERAL */
+/* line 18, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+html {
+  height: 100%; }
+
+/* line 22, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+body {
+  height: 100%;
+  background-color: black;
+  background-image: url(../img/pure-gas-logo-icon@2x.png);
+  background-position: bottom left;
+  background-repeat: no-repeat; }
+  /* line 28, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+  body .container {
+    max-width: 960px; }
+
+/* HEADER */
+/* line 35, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+header {
+  padding: 50px 0 0; }
+
+/* TITLE */
+/* line 42, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+.title h1 {
+  margin-top: 25px;
+  font-family: 'roboto', sans-serif;
+  font-weight: 100;
+  font-size: 42px;
+  color: white; }
+
+/* line 49, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+.title h2 {
+  margin-top: 15px;
+  font-family: 'roboto', sans-serif;
+  font-weight: 100;
+  font-size: 22px;
+  color: white; }
+
+/* DETAILS */
+/* line 60, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+.details {
+  margin-top: 50px; }
+  /* line 62, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+  .details .contact-detail {
+    font-size: 22px; }
+    /* line 64, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+    .details .contact-detail .contact-icon {
+      width: 45px;
+      color: #089DCD; }
+    /* line 68, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+    .details .contact-detail .contact-info {
+      font-family: 'roboto', sans-serif;
+      font-weight: 100;
+      color: white; }
+      /* line 72, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+      .details .contact-detail .contact-info a {
+        color: white;
+        text-decoration: none; }
+        /* line 75, /Users/anmolnandha/Library/Mobile Documents/com~apple~CloudDocs/FIVE QUARTER DESIGNS/CLIENTS/Pure Gas Flow/Landing Page/puregasflow-landing-page/css/style.scss */
+        .details .contact-detail .contact-info a:hover {
+          font-weight: 300; }
+
+/*# sourceMappingURL=style.css.map */
